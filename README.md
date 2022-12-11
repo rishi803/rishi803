@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio]([https://webdwithrishi2.tech/](https://my-react-contact.web.app/))**
+- 👨‍💻 All of my projects are available at **[My Portfolio]([https://my-react-contact.web.app/])**
 
 - 📫 How to reach me **rishi800900@gmail.com**
 
