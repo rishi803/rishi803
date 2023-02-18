@@ -62,6 +62,6 @@
 
 <a href = "https://www.linkedin.com/in/rishi-singh-12982520a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BlrSr%2FB9WQgekWPcIqtXqkg%3D%3D"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/rishisinghrks/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UCFnsqwRg4gf1fpgnRyQ-5gg"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://www.youtube.com/channel/UCFrAdMiC7ZKcGeUn39KKssg"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
